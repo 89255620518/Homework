@@ -1,0 +1,15 @@
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\bin\Debug\net6.0\Домашняя задание.exe
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\bin\Debug\net6.0\Домашняя задание.deps.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\bin\Debug\net6.0\Домашняя задание.runtimeconfig.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\bin\Debug\net6.0\Домашняя задание.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\bin\Debug\net6.0\Домашняя задание.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\Домашняя задание.csproj.AssemblyReference.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\Домашняя задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\Домашняя задание.AssemblyInfoInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\Домашняя задание.AssemblyInfo.cs
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\Домашняя задание.csproj.CoreCompileInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\Домашняя задание.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\refint\Домашняя задание.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\Домашняя задание.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\Домашняя задание.genruntimeconfig.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\семинар по С#\Домашняя задание\obj\Debug\net6.0\ref\Домашняя задание.dll
